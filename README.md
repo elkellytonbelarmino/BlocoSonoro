@@ -1,6 +1,6 @@
 # BlocoSonoro
 O Bloco Sonoro é um instrumento musical de interface digital, onde a cada botão vai reproduzir um som de um instrumento diferenciado! 
-Eu vou mostrar para vocês. Aqui o Pom, o Tim, o Splash.
+Eu vou mostrar para vocês, Basta abrir a url abaixo e seguir clicando nas opções para que seja reproduzido os sons.
 
 Link da url: Em desenvolvimento
 
