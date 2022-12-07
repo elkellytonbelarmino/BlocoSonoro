@@ -8,7 +8,7 @@
 
 body {
   align-items: center;
-  background: linear-gradient(45deg, #a7cfdf 0%,#23538a 100%);
+  background: linear-gradient(45deg, #a7cfdf 0%,black 100%);
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -20,6 +20,7 @@ h1 {
   color: var(--branca);
   margin-bottom: 20px;
   font-size: 2rem;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 .teclado {
